@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+### Frontend side of my University Project, backend => https://github.com/michalKoczewski/API
+### Made in collaboration with => https://github.com/kubasse.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Main Page
+Here's starting screen of our app, if you don't login, you can't access to other sites.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/Wt6XmJR/SS1.png">
+</p>
 
-## Available Scripts
+## Register Page
+After clicking on register, you will be redirected to regiter page where you can create your account.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/rsxkP4w/SS2.png">
+</p>
 
-In the project directory, you can run:
+## Login Page
+After click on "Register!" button, user is added to database and now you can login to your account.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/NxJwyz1/SS3.png">
+</p>
 
-### `npm start`
+## Home Page
+After logging in you will be redirected to Home Page of our app. It contains list of posts, you can also navigate to see User Details, Log Out or add new post.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/x53TnRq/SS4.png">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Add Post Page
+After click on "Dodaj Post" button, you will be redirected to Add Post page. Type post name, description, add photo and then click on "Publish" button to publish post.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/nmJrMxT/SS5.png">
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Home Page with new post
+After click on "Publish" button you can see your new post on the site!
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/tP7Mbft/SS6.png">
+</p>
 
-### `npm test`
+## Post Details Page
+After click on your post you will be redirected to Post Details page, here you can see details of your post, and you can delete it.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/svyRj4s/SS7.png">
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Home Page after deleting post
+After click on "Usuń post" button, you will be redirected to Home Page and your post is succesfully deleted.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/ZzkYYvR/SS8.png">
+</p>
 
-### `npm run build`
+## Account Details Page
+After click on "User Details" in menu, you can see a form which allows you to change username or password. There is also a "Delete Account" button which allows you to delete your account.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/RhbfsyS/SS9.png">
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Main Page after deleting account
+After you delete your account, you will be redirected to Login page.
+<p align="center">
+  <img width="959" height="526" src="https://i.ibb.co/TTTYrXD/SS10.png">
+</p>
